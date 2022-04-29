@@ -16,9 +16,9 @@ Manejo de errores
 
 try{
 
-}catch(<type1> e){ se ejecuta si el tipo de excepcion es el mismo
+}catch(type1 e){ se ejecuta si el tipo de excepcion es el mismo
 
-}catch(<type2> e){
+}catch(type2 e){
 
 }finally{ //se ejecuta si o si
 
