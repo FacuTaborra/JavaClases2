@@ -12,15 +12,16 @@ Terminar de ver todos los videos de colecciones y hacer hasta el ejercicio 5B in
 
 
 Manejo de errores
+-
 
 try{
--
+
 }catch(<type1> e){ se ejecuta si el tipo de excepcion es el mismo
--
+
 }catch(<type2> e){
--
+
 }finally{ //se ejecuta si o si
-- 
+
 }
 
 
